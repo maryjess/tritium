@@ -1,0 +1,14 @@
+Name, Height, Weight
+Dagi Edjangue, 171cm, 101kg
+Sylvia Warenburg, 168cm, 55kg
+Madu Dalmar, 167cm, 61kg
+Kafi Mugabe, 154cm, 49kg
+John Matthews, 165cm, 64kg
+Linda Reid, 154cm, 47kg
+James Pierce, 170cm, 82kg
+Emilio Juarez, 167cm, 58kg
+Kevin Ingram, 176cm, 68kg
+Keith Yaeger, 166cm, 77kg
+Sarah Newman, 158cm, 52kg
+Adel Tulba, 182cm, 77kg
+Kurt Saltman, 170cm, 98kg
