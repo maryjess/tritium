@@ -24,3 +24,7 @@ Unknown, 183cm, 75kg
 Heinrich von Raitenau, 185cm, 82kg
 Karl von Raitenau, Xcm, Xkg
 Christine von Raitenau, Xcm, Xkg
+Annie Fisher, 174cm, 61kg
+Timothy Gray, 174cm, 68kg
+Aaron Hewitt, 185cm, 80kg
+Tracy Mercer, 163cm, 40kg
